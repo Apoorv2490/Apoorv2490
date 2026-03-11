@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I'm Apoorv
 
-<!--
-**Apoorv2490/Apoorv2490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Principal AI Engineer focused on building production grade GenAI systems.  
+I work on RAG, LLM evaluation, retrieval, summarization, and AI platforms that improve reliability, speed, and decision-making.
 
-Here are some ideas to get you started:
+### Current Focus
+- Building scalable GenAI applications for enterprise use cases
+- Designing RAG pipelines with better retrieval quality and evaluation
+- Developing LLM based systems for incident analysis, summarization, and recommendations
+- Improving ML/AI deployment workflows, monitoring, and production reliability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Stack
+- **Languages:** Python, SQL
+- **AI/ML:** LLMs, RAG, embeddings, prompt engineering, model evaluation
+- **Frameworks/Tools:** FastAPI, LangChain, Docker
+- **Cloud/Infra:** OCI, Terraform, data pipelines, APIs
+- **Data:** ETL, feature pipelines, analytics, vector search
+
+### Featured Projects
+- **Production RAG System** — End-to-end retrieval and question-answering pipeline for enterprise knowledge workflows
+- **LLM Evaluation Framework** — Automated framework for testing retrieval quality, answer quality, and GenAI performance
+- **Incident Intelligence System** — AI workflows for incident summarization, causal analysis, and operational insights
+- **ML/AI Platform Work** — Deployment, monitoring, and infrastructure patterns for reliable AI systems
